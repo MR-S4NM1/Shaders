@@ -70,7 +70,11 @@
             "m_Id": "75015b1521ea4cc9ac37811019aba6c0"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "7e5a073271ca46218f77b2454c13cf50"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -297,7 +301,7 @@
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
     "m_ObjectId": "13957183744740858a897ed95e1cfb1d",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "7e5a073271ca46218f77b2454c13cf50"
     },
     "m_Name": "Multiply",
     "m_DrawState": {
@@ -747,7 +751,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "75015b1521ea4cc9ac37811019aba6c0",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "7e5a073271ca46218f77b2454c13cf50"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -798,6 +802,17 @@
     },
     "m_Labels": [],
     "m_Channel": 0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "7e5a073271ca46218f77b2454c13cf50",
+    "m_Title": "Shader - Sable de Kylo Ren",
+    "m_Position": {
+        "x": -863.0,
+        "y": -190.00001525878907
+    }
 }
 
 {
@@ -1010,7 +1025,7 @@
     "m_Type": "UnityEditor.ShaderGraph.FresnelNode",
     "m_ObjectId": "a669700599824552917fed554207d8a1",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "7e5a073271ca46218f77b2454c13cf50"
     },
     "m_Name": "Fresnel Effect",
     "m_DrawState": {
@@ -1052,7 +1067,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SampleTexture2DNode",
     "m_ObjectId": "a8aa6f0e2cd64ddcb9f0cfacda1e5e1f",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "7e5a073271ca46218f77b2454c13cf50"
     },
     "m_Name": "Sample Texture 2D",
     "m_DrawState": {
@@ -1201,7 +1216,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "b826692cecf64332a5d1e873e826430d",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "7e5a073271ca46218f77b2454c13cf50"
     },
     "m_Name": "Property",
     "m_DrawState": {

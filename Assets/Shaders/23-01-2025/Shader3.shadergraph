@@ -70,7 +70,11 @@
             "m_Id": "1fb23e9e12804536acdd94f41c32972d"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -174,8 +178,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": -55.99995040893555,
+            "y": 302.0
         },
         "m_Blocks": [
             {
@@ -191,8 +195,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": -55.99995040893555,
+            "y": 502.0
         },
         "m_Blocks": [
             {
@@ -241,7 +245,7 @@
     "m_Type": "UnityEditor.ShaderGraph.TimeNode",
     "m_ObjectId": "02389f196a9b4bc093f14ad5566267fa",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Time",
     "m_DrawState": {
@@ -395,7 +399,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "1fb23e9e12804536acdd94f41c32972d",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -706,7 +710,7 @@
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
     "m_ObjectId": "53e1511879f74135ac2c82f650e8b50e",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Multiply",
     "m_DrawState": {
@@ -857,7 +861,7 @@
     "m_Type": "UnityEditor.ShaderGraph.LerpNode",
     "m_ObjectId": "69d7e6700cd84a6080f37bdfc9e515b4",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Lerp",
     "m_DrawState": {
@@ -985,6 +989,17 @@
         "w": 0.0
     },
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "74ef29b3ed0c4d5a977e3c719caad4f4",
+    "m_Title": "Shader 3 - shader que genere una cuadrícula cuyo número de divisiones cambie dinámicamente en un intervalo de tiempo determinado.",
+    "m_Position": {
+        "x": -1279.9998779296875,
+        "y": 213.99998474121095
+    }
 }
 
 {
@@ -1309,7 +1324,7 @@
     "m_Type": "UnityEditor.ShaderGraph.CheckerboardNode",
     "m_ObjectId": "a88659e9f5ba42f0a5efdf77e064b569",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Checkerboard",
     "m_DrawState": {
@@ -1354,7 +1369,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "ab03ce4281af485eba56e3347568ac69",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -1519,7 +1534,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "c80fd8c380c94a7b93547247ac4d5af5",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "74ef29b3ed0c4d5a977e3c719caad4f4"
     },
     "m_Name": "Property",
     "m_DrawState": {

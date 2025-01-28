@@ -60,7 +60,7 @@
     ],
     "m_GroupDatas": [
         {
-            "m_Id": "17b3272ddffa46e6a5499971512fb155"
+            "m_Id": "bd8378fa55984876b73294539c11a2ee"
         }
     ],
     "m_StickyNoteDatas": [],
@@ -124,8 +124,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": 37.00002670288086,
+            "y": -4.999978065490723
         },
         "m_Blocks": [
             {
@@ -141,8 +141,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": 37.00002670288086,
+            "y": 195.0
         },
         "m_Blocks": [
             {
@@ -225,7 +225,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "0dfbb8ab020c43c488b1750019e11c25",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "bd8378fa55984876b73294539c11a2ee"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -381,17 +381,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "17b3272ddffa46e6a5499971512fb155",
-    "m_Title": "Shader 1",
-    "m_Position": {
-        "x": -709.0,
-        "y": 107.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "28e4143b8221445b8b6ff0d91e21f69f",
     "m_Group": {
@@ -468,16 +457,16 @@
     "m_Type": "UnityEditor.ShaderGraph.SampleTexture2DNode",
     "m_ObjectId": "38128e19a08f48959280989743a0452c",
     "m_Group": {
-        "m_Id": "17b3272ddffa46e6a5499971512fb155"
+        "m_Id": "bd8378fa55984876b73294539c11a2ee"
     },
     "m_Name": "Sample Texture 2D",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -684.0,
-            "y": 166.00001525878907,
-            "width": 207.99996948242188,
+            "x": -664.9999389648438,
+            "y": 111.99999237060547,
+            "width": 208.0,
             "height": 435.0
         }
     },
@@ -870,7 +859,7 @@
     "m_Type": "UnityEditor.ShaderGraph.AddNode",
     "m_ObjectId": "b3b93026cbac44ec8d9a1e9e4d600d27",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "bd8378fa55984876b73294539c11a2ee"
     },
     "m_Name": "Add",
     "m_DrawState": {
@@ -930,6 +919,17 @@
     },
     "m_Labels": [],
     "m_Space": 3
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "bd8378fa55984876b73294539c11a2ee",
+    "m_Title": "Shader 1 - shader que utilice una textura 2D con un filtro de color.",
+    "m_Position": {
+        "x": -829.9999389648438,
+        "y": -64.0
+    }
 }
 
 {
@@ -1206,7 +1206,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "fbc7149e9aa34168b7874910c869b48e",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "bd8378fa55984876b73294539c11a2ee"
     },
     "m_Name": "Property",
     "m_DrawState": {

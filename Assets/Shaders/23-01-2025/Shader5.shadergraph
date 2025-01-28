@@ -40,7 +40,11 @@
             "m_Id": "f3e7b64e739c4500a76051305df4131f"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "17a1583f57504553a02854dc83d8fe94"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -88,8 +92,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": 185.99998474121095,
+            "y": 19.99997901916504
         },
         "m_Blocks": [
             {
@@ -105,8 +109,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": 185.99998474121095,
+            "y": 220.0
         },
         "m_Blocks": [
             {
@@ -222,6 +226,17 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "SurfaceDescription.BaseColor"
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "17a1583f57504553a02854dc83d8fe94",
+    "m_Title": "Shader 5 - shader que utilice un color para simular el \"morado de la muerte\" (material de error).",
+    "m_Position": {
+        "x": -591.0,
+        "y": -38.999969482421878
+    }
 }
 
 {
@@ -449,7 +464,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "97d0c20ee8dd4c7fba1e1c1c1c86bcc9",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "17a1583f57504553a02854dc83d8fe94"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -584,7 +599,7 @@
     "m_Type": "UnityEditor.ShaderGraph.AddNode",
     "m_ObjectId": "c511669d185a4dedba2309b4bbdf2459",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "17a1583f57504553a02854dc83d8fe94"
     },
     "m_Name": "Add",
     "m_DrawState": {
@@ -627,7 +642,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "f3e7b64e739c4500a76051305df4131f",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "17a1583f57504553a02854dc83d8fe94"
     },
     "m_Name": "Property",
     "m_DrawState": {

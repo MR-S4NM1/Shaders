@@ -64,7 +64,11 @@
             "m_Id": "8fbcbbb8d0184e028fc058b7eec3fe16"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "0694199cf08e4f47994618b06cd51e1f"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -154,8 +158,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": 71.00011444091797,
+            "y": 11.000009536743164
         },
         "m_Blocks": [
             {
@@ -171,8 +175,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": 71.00011444091797,
+            "y": 211.00003051757813
         },
         "m_Blocks": [
             {
@@ -218,10 +222,21 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "0694199cf08e4f47994618b06cd51e1f",
+    "m_Title": "Shader 4 - shader con textura que incorpore la propiedad de luz dinámica.",
+    "m_Position": {
+        "x": -946.0000610351563,
+        "y": -304.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "071e7667c73f4a41900a4a8e33e6d37c",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "0694199cf08e4f47994618b06cd51e1f"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -657,7 +672,7 @@
     "m_Type": "UnityEditor.ShaderGraph.AddNode",
     "m_ObjectId": "8fbcbbb8d0184e028fc058b7eec3fe16",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "0694199cf08e4f47994618b06cd51e1f"
     },
     "m_Name": "Add",
     "m_DrawState": {
@@ -899,16 +914,16 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "b6f7c6ef9baa46d9b06fc4b53d2be016",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "0694199cf08e4f47994618b06cd51e1f"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -782.0000610351563,
-            "y": -175.00001525878907,
-            "width": 124.00006103515625,
+            "x": -864.0001220703125,
+            "y": -105.99999237060547,
+            "width": 124.0,
             "height": 34.0
         }
     },
@@ -984,7 +999,7 @@
     "m_Type": "UnityEditor.ShaderGraph.DotProductNode",
     "m_ObjectId": "ccfec466627e40a8b2869eca4d39dc64",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "0694199cf08e4f47994618b06cd51e1f"
     },
     "m_Name": "Dot Product",
     "m_DrawState": {
@@ -1185,7 +1200,7 @@
     "m_Type": "UnityEditor.ShaderGraph.NormalVectorNode",
     "m_ObjectId": "e0844e0375704a22b64efd5311fdde53",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "0694199cf08e4f47994618b06cd51e1f"
     },
     "m_Name": "Normal Vector",
     "m_DrawState": {
@@ -1360,17 +1375,17 @@
     "m_Type": "UnityEditor.ShaderGraph.SampleTexture2DNode",
     "m_ObjectId": "feb60c4357514a23b28fb731c6e6fd7f",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "0694199cf08e4f47994618b06cd51e1f"
     },
     "m_Name": "Sample Texture 2D",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -566.0,
-            "y": -314.0,
-            "width": 207.99996948242188,
-            "height": 434.9999694824219
+            "x": -648.0000610351563,
+            "y": -244.99998474121095,
+            "width": 208.00003051757813,
+            "height": 435.0
         }
     },
     "m_Slots": [

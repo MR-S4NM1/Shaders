@@ -30,7 +30,7 @@ Material:
     - _Intensity: 1.25
     - _QueueControl: 0
     m_Colors:
-    - _EmissionColor: {r: 0, g: 503.7362, b: 766.99615, a: 1}
+    - _EmissionColor: {r: 1226.2208, g: 260.28278, b: 358.5623, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &4341622781777912047

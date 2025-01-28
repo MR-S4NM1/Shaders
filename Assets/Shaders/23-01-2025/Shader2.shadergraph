@@ -64,7 +64,11 @@
             "m_Id": "71b57bd078544ec8ae52275fc7c46cf0"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "9c67345537b4453b9d8d0fff15a070e7"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -140,8 +144,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": 5.000038146972656,
+            "y": -8.999983787536621
         },
         "m_Blocks": [
             {
@@ -157,8 +161,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": 5.000038146972656,
+            "y": 190.99998474121095
         },
         "m_Blocks": [
             {
@@ -355,17 +359,17 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "3d998b6f38a94b758c922b714430ba88",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "9c67345537b4453b9d8d0fff15a070e7"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -646.0,
-            "y": 268.0,
-            "width": 0.0,
-            "height": 0.0
+            "x": -764.9999389648438,
+            "y": 259.0,
+            "width": 105.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -592,17 +596,17 @@
     "m_Type": "UnityEditor.ShaderGraph.SampleTexture2DNode",
     "m_ObjectId": "71b57bd078544ec8ae52275fc7c46cf0",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "9c67345537b4453b9d8d0fff15a070e7"
     },
     "m_Name": "Sample Texture 2D",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -932.9999389648438,
-            "y": 114.9999771118164,
+            "x": -1051.9998779296875,
+            "y": 106.00003051757813,
             "width": 207.99993896484376,
-            "height": 435.0000305175781
+            "height": 434.9999084472656
         }
     },
     "m_Slots": [
@@ -738,17 +742,17 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "84a56ad4d7a744769a69a330615a7b1c",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "9c67345537b4453b9d8d0fff15a070e7"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -580.1390380859375,
-            "y": 417.1786804199219,
-            "width": 0.0,
-            "height": 0.0
+            "x": -699.0,
+            "y": 408.0,
+            "width": 118.00006103515625,
+            "height": 34.000030517578128
         }
     },
     "m_Slots": [
@@ -851,6 +855,17 @@
     },
     "m_Labels": [],
     "m_Space": 0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "9c67345537b4453b9d8d0fff15a070e7",
+    "m_Title": "Shader 2 - shader con líneas paralelas, donde una de las líneas tenga una textura y la otra un color sólido.",
+    "m_Position": {
+        "x": -1326.9998779296875,
+        "y": 47.000022888183597
+    }
 }
 
 {
@@ -1053,17 +1068,17 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "c1ca0642d55f48fe814ea6a894c14fb4",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "9c67345537b4453b9d8d0fff15a070e7"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1183.0,
-            "y": 489.99993896484377,
-            "width": 124.0001220703125,
-            "height": 34.0
+            "x": -1301.9998779296875,
+            "y": 481.0000305175781,
+            "width": 123.9998779296875,
+            "height": 33.999969482421878
         }
     },
     "m_Slots": [
@@ -1331,17 +1346,17 @@
     "m_Type": "UnityEditor.ShaderGraph.CheckerboardNode",
     "m_ObjectId": "fd766c72a078412ab0b802d395194853",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "9c67345537b4453b9d8d0fff15a070e7"
     },
     "m_Name": "Checkerboard",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -384.0,
-            "y": 200.0,
-            "width": 208.0,
-            "height": 350.0
+            "x": -502.99993896484377,
+            "y": 190.99998474121095,
+            "width": 207.99993896484376,
+            "height": 349.99993896484377
         }
     },
     "m_Slots": [
