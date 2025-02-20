@@ -39,6 +39,7 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
+    - _QueueControl: 0
     - _Transparency: 0.5
     - _WaveAmplitude: 0.1
     - _WaveFrequency: 1.2
