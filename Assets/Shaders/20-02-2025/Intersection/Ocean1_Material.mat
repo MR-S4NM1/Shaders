@@ -40,6 +40,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Distance: 0.25
+    - _QueueControl: 0
     - _Step: 400
     - _Transparency: 1
     - _WaveAmplitude: 0.3
