@@ -27,7 +27,14 @@
             "m_Id": "96977e1627424d6493868498da790232"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "35b23b9d24254cac9bb698d4fe9fa7f7"
+        },
+        {
+            "m_Id": "8b8202d2dde14174afc93918d485c8d6"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -147,7 +154,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SceneDepthNode",
     "m_ObjectId": "067cce4d753349cfb3baf38aa5f695a1",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "35b23b9d24254cac9bb698d4fe9fa7f7"
     },
     "m_Name": "Scene Depth",
     "m_DrawState": {
@@ -236,16 +243,16 @@
     "m_Type": "UnityEditor.ShaderGraph.SplitNode",
     "m_ObjectId": "1725b9cf753f4cc8ad643f12585b8102",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "8b8202d2dde14174afc93918d485c8d6"
     },
     "m_Name": "Split",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -48.2501220703125,
-            "y": -20.75006103515625,
-            "width": 120.0,
+            "x": -67.0,
+            "y": 76.0000228881836,
+            "width": 120.00001525878906,
             "height": 149.00006103515626
         }
     },
@@ -304,20 +311,31 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "35b23b9d24254cac9bb698d4fe9fa7f7",
+    "m_Title": "Detrás del objeto",
+    "m_Position": {
+        "x": -332.0000305175781,
+        "y": -238.00003051757813
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.ScreenPositionNode",
     "m_ObjectId": "4921b1fae8d74347ac153914fcdc45c4",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "8b8202d2dde14174afc93918d485c8d6"
     },
     "m_Name": "Screen Position",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -307.2501220703125,
-            "y": -33.750030517578128,
-            "width": 208.0,
-            "height": 313.0001525878906
+            "x": -326.0000305175781,
+            "y": 63.000038146972659,
+            "width": 208.00001525878907,
+            "height": 313.0
         }
     },
     "m_Slots": [
@@ -384,6 +402,17 @@
     },
     "m_Labels": [],
     "m_ScreenSpaceType": 0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "8b8202d2dde14174afc93918d485c8d6",
+    "m_Title": "Distancia del objeto",
+    "m_Position": {
+        "x": -351.0000305175781,
+        "y": 4.000011444091797
+    }
 }
 
 {

@@ -43,8 +43,8 @@ Material:
     - _QueueControl: 0
     - _Step: 400
     - _Transparency: 1
-    - _WaveAmplitude: 0.3
-    - _WaveFrequency: 0.5
+    - _WaveAmplitude: 0.25
+    - _WaveFrequency: 0.75
     - _WaveSpeed: 2
     m_Colors:
     - _ColorWave: {r: 1, g: 1, b: 1, a: 0}
