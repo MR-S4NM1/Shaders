@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IntersectionPower_Material
-  m_Shader: {fileID: -6465566751694194690, guid: bd4dc80af4e39484699e1009d9b28599, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: bd4dc80af4e39484699e1009d9b28599, type: 3}
+  m_Name: Toon_Material
+  m_Shader: {fileID: -6465566751694194690, guid: f7419b4870de8da4594175e4736c6469, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: f7419b4870de8da4594175e4736c6469, type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -23,17 +23,18 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _SampleTexture2D_40bae2a7876843bba4ddf74e236caeaf_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 1eef618b9d486a94dbb597178c57ec70, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats:
-    - _BorderOutline: 0.02
-    - _IntersectionPower: 25
-    - _QueueControl: 0
+    m_Floats: []
     m_Colors:
-    - _Color: {r: 0, g: 3.9643056, b: 10.680626, a: 1}
+    - _ShaderColor: {r: 0.5411765, g: 0.72051513, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &297088468883162828
+--- !u!114 &7215442412923837444
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
