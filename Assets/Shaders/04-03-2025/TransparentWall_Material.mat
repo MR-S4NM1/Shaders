@@ -26,8 +26,8 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _FadeSize: 0.01
-    - _FadeSize_1: -0.015
+    - _FadeSize: 0.015
+    - _FadeSize_1: -0.03
     - _Power: 0
     - _QueueControl: 0
     - _TransparentSize: 0.05
