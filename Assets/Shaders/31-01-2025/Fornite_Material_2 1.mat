@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IntersectionPower_Material
-  m_Shader: {fileID: -6465566751694194690, guid: bd4dc80af4e39484699e1009d9b28599, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: bd4dc80af4e39484699e1009d9b28599, type: 3}
+  m_Name: Fornite_Material_2 1
+  m_Shader: {fileID: -6465566751694194690, guid: 16bc2d061fff5bb4b9c06c3027e7fb58, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 16bc2d061fff5bb4b9c06c3027e7fb58, type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -26,14 +26,13 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _BorderOutline: 0.02
-    - _IntersectionPower: 25
     - _QueueControl: 0
     m_Colors:
-    - _Color: {r: 0, g: 0.6807935, b: 1, a: 1}
+    - _ColorA: {r: 0, g: 1, b: 0.417938, a: 0}
+    - _ColorPoint: {r: 1.9414732, g: 10.680627, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &297088468883162828
+--- !u!114 &5275299300555257072
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
