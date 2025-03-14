@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader8_Material
-  m_Shader: {fileID: -6465566751694194690, guid: f6e54a434dc80df4c8692505d2620317, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: f6e54a434dc80df4c8692505d2620317, type: 3}
+  m_Name: DeepSpace_Material
+  m_Shader: {fileID: -6465566751694194690, guid: 1270063305b8c0d41b0135a125112b81, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 1270063305b8c0d41b0135a125112b81, type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -26,14 +26,15 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Alpha: 0.5
-    - _Intensity: 1.25
+    - _NoiseScale: 150
+    - _Power: 8
     - _QueueControl: 0
     m_Colors:
-    - _EmissionColor: {r: 153.2776, g: 32.535347, b: 44.820286, a: 1}
+    - _FresnelColor: {r: 0, g: 0.87835574, b: 1, a: 0}
+    - _StarColor: {r: 0, g: 0.89803934, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &4341622781777912047
+--- !u!114 &2750538767914400828
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
