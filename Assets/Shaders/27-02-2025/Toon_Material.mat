@@ -39,9 +39,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _QueueControl: 0
-    - _Smoothness: 0.5
+    - _Smoothness: 0.24
     m_Colors:
-    - _ShaderColor: {r: 0, g: 0.39393902, b: 1, a: 0}
+    - _ShaderColor: {r: 0, g: 0.3921566, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &7215442412923837444
